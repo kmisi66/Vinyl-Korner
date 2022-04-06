@@ -1,0 +1,5 @@
+<?php 
+//boilerplate mailing script
+
+
+?>
